@@ -3,7 +3,8 @@
 
 接口设计
 
-环境ip：47.100.24.40 端口：80
+环境ip：47.100.24.40 端口：80 
+
 base url: www.kehue.com/nuo/
 
 wechat登陆
